@@ -2,20 +2,22 @@
 
 ## Team name and members
 ### Quad Js
+- Jaehyuk Choi
 - Jinyung Hong
 - Eunsom Jeon
 - Yongbaek Cho
-- Jaehyuk Choi
+
 
 ## Description of Topic
 ### Bi-directional search
 We apply the variants of MM including MMε and Factional MM (fMM(p)) to solve the POSITION SEARCH problems in Pacman domain. 
 
 ## Contributions of each team member
+- Jaehyuk Choi : Analyzed conventional heuristics on MM's behavior and developed customized one for better performance of MM. Contributed to algorithm design, introduction, and technical approach so that how the combined MM impletments the variants of MM.   
 - Jinyung Hong : I developed MM and MMε. I participated in writing the introduction and technical approach in our report.
 - Eunsom Jeon : I developed fMM and heuristics. I participated in writing the technical approach heuristics, the results and discussion, and conclusion in our report.
 - Yongbaek Cho : I experimented with algorithms and analyzed it. I created tables and graphs participated in writing the Results and discussion in our report. 
-- Jaehyuk Choi : Analyzed conventional heuristics on MM's behavior and developed customized one for better performance of MM. Contributed to algorithm design, introduction, and technical approach so that how the combined MM impletments the variants of MM.   
+
 
 ## Dependencies
 - Python 2
